@@ -2,8 +2,8 @@
 main:
   - title: "Quadram Institute"
     url: https://www.quadram.ac.uk
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+   - title: "About us"
+     url: /about/
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
