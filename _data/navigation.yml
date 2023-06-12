@@ -3,7 +3,7 @@ main:
   - title: "Quadram Institute"
     url: https://www.quadram.ac.uk
   - title: "About us"
-    url: /_pages/
+    url: _pages/about.md
   # - title: "Sample Posts"
   #   url: /year-archive/
   # - title: "Sample Collections"
