@@ -6,7 +6,6 @@ toc_icon: "user-ninja"
 permalink: /about
 ---
 
-# Who are we?
 We are a research group of microbiologists, biotechnologists and computational biologists with an interest in bacteriophages and other viruses. We are curious about the role and function of viruses in the microbiome and passionate about using bacteriophages to improve health, whether it's our own, that of animals, the food chain or the environment.  
   
 We are located at the (Quadram Institute Bioscience)[www.quadram.ac.uk] on the Norwich Research Park in the East of England.    
