@@ -3,7 +3,7 @@ layout: single
 toc: true
 toc_label: "About us"
 toc_icon: "user-ninja"
-permalink: /about/
+permalink: /about
 ---
 
 # About us
