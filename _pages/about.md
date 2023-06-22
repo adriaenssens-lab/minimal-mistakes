@@ -31,7 +31,7 @@ I'm originally from Belgium, where is studied for a Master's and PhD in Bioscien
 ## Sara Zahran
    
   
-# Adriaenssens lab alumni
+## Adriaenssens lab alumni
 We are very grateful for the lovely group of people that has passed through the lab, the impression they left on our lives and the excellent work they did. 
 
 - Teagan Brown
