@@ -18,6 +18,8 @@ I'm originally from Belgium, where is studied for a Master's and PhD in Bioscien
 
 ## Claire Elek
 
+## Luke Acton
+
 ## James Docherty
 
 ## Miles Oke  
@@ -27,6 +29,8 @@ I'm originally from Belgium, where is studied for a Master's and PhD in Bioscien
 ## Xena Dyball
 
 ## Ryan Cook
+
+## Lizzi Coy
 
 ## Sara Zahran
    
