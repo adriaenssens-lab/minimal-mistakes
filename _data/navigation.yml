@@ -1,5 +1,7 @@
 # main links
 main:
+  - title: "Home"
+    url: /
   - title: "Quadram Institute"
     url: https://www.quadram.ac.uk
   - title: "About us"
