@@ -3,7 +3,7 @@ layout: splash
 toc: false
 header: 
   image: /assets/images/small_phages_banner.png
-permalink: /
+permalink: /home
 intro: 
   - excerpt: "Welcome to the Adriaenssens Group website."
 feature_row:
