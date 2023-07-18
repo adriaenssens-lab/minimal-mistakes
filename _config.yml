@@ -24,7 +24,7 @@ description              : "Website for the research group led by Evelien Adriae
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/minimal-mistakes"
 repository               : "adriaenssens-lab/minimal-mistakes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/images/small_phages_banner.png"
 logo                     : "/assets/images/evelien_logo_round_blue_transparent.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
