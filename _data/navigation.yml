@@ -2,12 +2,12 @@
 main:
   - title: "Home"
     url: /
-  - title: "Quadram Institute"
-    url: https://www.quadram.ac.uk
   - title: "About us"
     url: /about
   - title: "Projects"
     url: /projects
+  - title: "Quadram Institute"
+    url: https://www.quadram.ac.uk
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
