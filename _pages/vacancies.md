@@ -32,7 +32,10 @@ Salary on appointment will be within the range £34,950 to £43,750 per annum de
 We are committed to equal opportunities and welcome applications from all sectors of society.  The Institute supports equality of opportunity within the workplace and expects all employees to share and display these values.  To support our commitment, we have a range of family, faith and diversity friendly working arrangements to help all staff achieve excellence in their area of work.
 
 As a Disability Confident employer, we guarantee to offer an interview to all disabled applicants who meet the essential criteria for this vacancy.
+  
+## PhD student projects
+PhD students in our group are funded through the Norwich Research Park Doctoral Training Programme [NRPDTP](https://biodtp.norwichresearchpark.ac.uk/) or the Microbes, Microbiomes and Bioinformatics DTP [MMBDTP](https://www.uea.ac.uk/web/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/partnerships-in-doctoral-training/mmb). When funded projects are approved for advertisement, they will appear on the respective web pages and will be listed here. Projects for a 2023 start have been filled. 
 
 
-## Prospective students
+## Prospective project students
 We regularly host project students from the University of East Anglia for Honours and Masters research projects.  
