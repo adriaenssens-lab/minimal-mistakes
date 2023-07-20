@@ -10,9 +10,10 @@ toc_icon: "users"
 ---
   
 ## We are hiring a postdoctoral research scientist!
-Deadline for applications: 13 August 2023  
-Salary range: £34,950 to £43,750 per annum depending on qualifications and experience  
-Contract Length: 3 years, full-time  
+
+* Deadline for applications: 13 August 2023  
+* Salary range: £34,950 to £43,750 per annum depending on qualifications and experience  
+* Contract Length: 3 years, full-time  
 
 **Background**  
 The Adriaenssens group is embedded within the Food, Microbiome and Health and the Microbes and Food Safety Institute Strategic Programmes where we investigate the role of bacteriophages in both food and gut microbiomes and how we can use bacteriophages to improve health.
