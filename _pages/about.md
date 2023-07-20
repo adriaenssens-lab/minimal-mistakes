@@ -29,10 +29,13 @@ I'm originally from Belgium, where is studied for a Master's and PhD in Bioscien
 ## Hannah Pye
 
 ## Xena Dyball
+I am an [NRPDTP](https://biodtp.norwichresearchpark.ac.uk/) PhD student in the Adriaenssens group investigating the roles of bacteriophage infection and prophage carriage in bacterial adaptation to the human gut. My project is focussed on the commensal species *Ruminococcus gnavus* and the prophages found within its genome. Using bioinformatics tools and wet-lab techniques I aim to elucidate the role of phages in the adaptation of *R. gnavus* to the human gut environment, in addition to improving our understanding of the interactions occurring between phage-bacteria-host in the gut microbiome. Prior to my PhD I worked in the technology development group at UKHSA and completed an integrated master’s degree at the University of Warwick.
 
 ## Ryan Cook
 
 ## Lizzi Coy
+I am an iCASE [MMBDTP](https://www.uea.ac.uk/web/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/partnerships-in-doctoral-training/mmb) PhD student part of the Narbad and Adriaenssens groups. My project focuses on developing a defined microbiome-based therapy for the biocontrol of *Clostridium difficile* infections in the gut. Alongside the project I will be supported by my industry partner at The Functional Gut Clinic to give a clinical insight for the project, as well as extensive bioinformatics training as part of the MMBDTP program.  
+In 2022 I graduated from the University of Sheffield, with a Master of Biological Science in Biochemistry and Microbiology, after completing research projects on the structural and functional relationship of pore forming toxins from gram negative bacteria, and characterising Saccharomyces cerevisiae from commercial ale.  
 
 ## Sara Zahran
    
