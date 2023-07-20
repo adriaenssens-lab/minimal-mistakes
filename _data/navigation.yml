@@ -6,6 +6,8 @@ main:
     url: /about
   - title: "Projects"
     url: /projects
+  - title: "Vacancies"
+    url: /vacancies 
   - title: "Quadram Institute"
     url: https://www.quadram.ac.uk
   # - title: "Sample Collections"
