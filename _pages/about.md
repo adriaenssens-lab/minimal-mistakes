@@ -12,6 +12,7 @@ We are a research group of microbiologists, biotechnologists and computational b
   
 We are located at the [Quadram Institute Bioscience](www.quadram.ac.uk) on the Norwich Research Park in the East of England.    
 
+# Current lab members
 ## Evelien Adriaenssens
 I'm Evelien Adriaenssens, Group Leader and Principal Investigator.  
 
@@ -43,7 +44,7 @@ In 2022 I graduated from the University of Sheffield, with a Master of Biologica
 ## Sara Zahran
    
   
-## Adriaenssens lab alumni
+# Adriaenssens lab alumni
 We are very grateful for the lovely group of people that has passed through the lab, the impression they left on our lives and the excellent work they did. 
 
 - Teagan Brown
