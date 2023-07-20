@@ -1,4 +1,5 @@
 ---
+title: Vacancies in the Adriaenssens Group
 layout: single
 toc: true
 #header: 
