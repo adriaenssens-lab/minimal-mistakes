@@ -2,7 +2,7 @@
 layout: single
 toc: true
 header: 
-  image: /assets/images/small_phages_banner.png
+  image: /assets/images/small_phages_banner_colour.png
 toc_label: "About us"
 toc_icon: "user-ninja"
 permalink: /about

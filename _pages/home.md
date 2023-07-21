@@ -2,7 +2,7 @@
 layout: splash
 toc: false
 header: 
-  image: /assets/images/small_phages_banner.png
+  image: /assets/images/small_phages_banner_colour.png
 permalink: /
 intro: 
   - excerpt: "Welcome to the Adriaenssens Group website."
