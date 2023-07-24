@@ -24,6 +24,9 @@ I am the Chair of the Bacterial Viruses Subcommittee of the International Commit
 ## Luke Acton
 
 ## James Docherty
+I am an [NRPDTP](https://biodtp.norwichresearchpark.ac.uk/) PhD student in the Adriaenssens Lab, researching the impact of bacteriophages on the colonisation of bifidobacteria in the infant gut. My project combines bioinformatics and wet-lab research to enhance our understanding of the intricate relationships that these predatory viruses have with bacteria belonging to the *Bifidobacterium* genus during early life. These bacteria dominate the enteric microbiome in healthy breast-fed infants, and any reduction in their abundance at this critical stage is associated with numerous illnesses and disorders.
+
+Prior to joining the group, I pursued a BSc (Hons) in Biology and an MSc in Biotechnology at the University of Lincoln. During my studies, I conducted research projects on using virulent bacteriophages to treat burn wound infections caused by *Pseudomonas aeruginosa* and investigating plasmid stability in transgenic *Escherichia coli*. To build on my experience, I then gained employment as a Laboratory Technician for Microbiology.  
 
 ## Miles Oke  
   
