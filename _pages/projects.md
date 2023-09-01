@@ -16,11 +16,15 @@ Phages are a crucial component of the human gut microbiome, but we know much les
 - Do prophages of beneficial bacteria contribute to bacterial fitness in the gut? 
 - Do prophages help adapt bacteria to the human niche?
 
+This research is in part funded by the BBSRC Grant "Bacteriophage for gut health".  
+
 ## Phage-host interactions
 A good understanding of the interactions of phages with their bacterial hosts is essential for future applications. In the lab, we have a collection of bacteriophages against many gut bacteria and against ESKAPE pathogens that are important for their multi-drug resistance. Using laboratory and sequence-based experimentation including the use of transposon-insertion directed sequencing, we are figuring out what the genetic drivers are for phage resistance and how this can be exploited for synergistic action with antibiotics.  
 
 ## Phages for biocontrol
 Our ultimate goal is to be able to use phage-based technologies in a wide range of environments, including the food chain and human body. Our current projects are focused on *Klebsiella* sp. and ESKAPE pathogens.   
+### PhageLand
+The Adriaenssens Lab is part of the [Joint Programming Initiative on Antimicrobial Resistance JPIAMR PhageLand Project](https://www.jpiamr.eu/projects/phageland/) which aims to develop a novel intervention strategy combining the low-cost and eco-friendly purification capacity of passive treatment systems, namely constructed wetlands (CW), with a dedicated phage-based treatment to prevent the transmission of antibiotic resistance (AR) from wastewater into surface waters.
   
 ## Virus taxonomy
 I (Evelien) am currently the Chair of the Bacterial Viruses Subcommittee of the ICTV and have contributed to virus taxonomy for over 10 years. I am committed to establishing a genome-based phage taxonomy that is fit for purpose, taking into account the huge spike in phage diversity that has been discovered in the last two decades, both through culture and sequence-based approaches. 
