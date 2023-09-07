@@ -20,6 +20,11 @@ I'm originally from Belgium, where I studied for a Master's and PhD in Bioscienc
 I am the Chair of the Bacterial Viruses Subcommittee of the International Committee on Taxonomy of Viruses ([ICTV](https://ictv.global/)).   
 
 ## Claire Elek
+I am a [DART MRC iCASE](https://www.uea.ac.uk/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/mrc-dart-icase) PhD candidate in the Adriaenssens Group investigating the use of bacteriophages (or phages) for the biocontrol of *Klebsiella* spp., as an alternative or adjunctive to antibiotics. My project focuses on the phenotypic and genotypic characterisation of bacteriophages, how they interact with their host species and antibiotics, and producing high quality, high titre phage preparations for potential use in humans.
+ 
+Previously to my PhD, I completed my Masters by Research in Biomedical Research, specialising in bacterial pathogenesis and infection at Imperial College London in 2019. During my first project, I developed a novel reporter system in *Klebsiella pneumoniae* for *in vivo* bioluminescence imaging, and during my second project, I investigated the effect of a small molecule inhibitor on DNA repair mechanisms and antibiotic potentiation in Gram-negative bacteria.
+ 
+I completed my BSc (Hons) Biomedical Science from the University of Bedfordshire in 2017, and prior to this had gained industry experience in a range of fields, including blood product testing, radiolabelling and purifying proteins, and food microbiology.  
 
 ## Luke Acton
 
