@@ -26,15 +26,12 @@ Previously to my PhD, I completed my Masters by Research in Biomedical Research,
  
 I completed my BSc (Hons) Biomedical Science from the University of Bedfordshire in 2017, and prior to this had gained industry experience in a range of fields, including blood product testing, radiolabelling and purifying proteins, and food microbiology.  
 
-## Luke Acton
-
 ## James Docherty
 I am an [NRPDTP](https://biodtp.norwichresearchpark.ac.uk/) PhD student in the Adriaenssens Lab, researching the impact of bacteriophages on the colonisation of bifidobacteria in the infant gut. My project combines bioinformatics and wet-lab research to enhance our understanding of the intricate relationships that these predatory viruses have with bacteria belonging to the *Bifidobacterium* genus during early life. These bacteria dominate the enteric microbiome in healthy breast-fed infants, and any reduction in their abundance at this critical stage is associated with numerous illnesses and disorders.
 
 Prior to joining the group, I pursued a BSc (Hons) in Biology and an MSc in Biotechnology at the University of Lincoln. During my studies, I conducted research projects on using virulent bacteriophages to treat burn wound infections caused by *Pseudomonas aeruginosa* and investigating plasmid stability in transgenic *Escherichia coli*. To build on my experience, I then gained employment as a Laboratory Technician for Microbiology.  
 
-## Miles Oke  
-  
+
 ## Hannah Pye
 Hi, I’m Hannah!  
    
@@ -52,7 +49,13 @@ My research career started at the University of Nottingham where I completed a M
 I am an iCASE [MMBDTP](https://www.uea.ac.uk/web/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/partnerships-in-doctoral-training/mmb) PhD student part of the Narbad and Adriaenssens groups. My project focuses on developing a defined microbiome-based therapy for the biocontrol of *Clostridium difficile* infections in the gut. Alongside the project I will be supported by my industry partner at The Functional Gut Clinic to give a clinical insight for the project, as well as extensive bioinformatics training as part of the MMBDTP program.  
 In 2022 I graduated from the University of Sheffield, with a Master of Biological Science in Biochemistry and Microbiology, after completing research projects on the structural and functional relationship of pore forming toxins from gram negative bacteria, and characterising Saccharomyces cerevisiae from commercial ale.  
 
-## Sara Zahran
+## Raphael Lwesya
+  
+## Deus Kamya  
+  
+## Revathy Krishnamurthy
+
+## Luke Acton
    
   
 # Adriaenssens lab alumni
@@ -60,9 +63,11 @@ We are very grateful for the lovely group of people that has passed through the 
 
 - Teagan Brown
 - Oliver Charity
+- Sarah Zahran
 
 
 ## UEA Masters and Honours project students 
+- Miles Oke
 - Bernardo Pedroza
 - Lucy Hewitt
 - Poppy Howard
