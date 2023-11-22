@@ -17,7 +17,7 @@ We are located at the [Quadram Institute Bioscience](www.quadram.ac.uk) on the N
 I'm Evelien Adriaenssens, Group Leader and Principal Investigator.  
 
 I'm originally from Belgium, where I studied for a Master's and PhD in Bioscience Engineering at the KU Leuven. During my PhD, I worked on the development of new bacteriophages as biocontrol agents against potato rot. In 2013, I moved to South Africa for a postdoctoral fellowship on the microbial ecology of viruses in desert soils. I moved to Liverpool in 2016 to investigate the use of viromics to track pathogenic viruses in the environment. I started my research group in 2019, exploring viruses in the human gut microbiome and their applications.  
-I am the Chair of the Bacterial Viruses Subcommittee of the International Committee on Taxonomy of Viruses ([ICTV](https://ictv.global/)).   
+I am the Vice President of the International Committee on Taxonomy of Viruses ([ICTV](https://ictv.global/)).   
 
 ## Claire Elek
 I am a [DART MRC iCASE](https://www.uea.ac.uk/research/research-with-us/postgraduate-research/latest-phds-and-research-studentships/mrc-dart-icase) PhD candidate in the Adriaenssens Group investigating the use of bacteriophages (or phages) for the biocontrol of *Klebsiella* spp., as an alternative or adjunctive to antibiotics. My project focuses on the phenotypic and genotypic characterisation of bacteriophages, how they interact with their host species and antibiotics, and producing high quality, high titre phage preparations for potential use in humans.
